@@ -23,8 +23,8 @@ I designed the file to make it simple (in theory..) to change or add additional 
 ### Rhino + Grasshopper files
 
 Open both:
-- `Spread of Contamination\MELT Fracking Emitters LE 04.3dm`
-- `Spread of Contamination\MELT Ground Water Emitter 09.gh`
+- `Spread of Contamination\Grasshopper\MELT Fracking Emitters LE 04.3dm`
+- `Spread of Contamination\Grasshopper\MELT Ground Water Emitter 09.gh`
 
 The Rhino file is an old version of Martino's map, you should be able to drop in the latest version with all the new fracking locations.
 
@@ -61,6 +61,12 @@ It should definitely end with `particles/particles` the script will append `_FRA
 3. Scroll to the end of the line to preview / bake the particles to the file.
 4. The points will be baked to the `particles` layer. Select them and export them to Illustrator or keep them in Rhino. (If I recall correctly exporting `.ai` ignores points but I think you can export to `.dwg`, `.dxf` or similar CAD format which will import to Illustrator.
 
+
+### Illustrator File
+
+- `Spread of Contamination\Grasshopper\LE - Contamination Map 06.ai`
+
+Just an illustator file with the particles of different frame numbers on layers.
 
 ## Ground Water Modelling
 
