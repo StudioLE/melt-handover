@@ -45,7 +45,6 @@ Refer to the top line / section of the Grasshopper file *Export to RealFlow*
 
 The Grasshopper script should have scaled and moved the object to an appropriate place and scale for RealFlow.
 
-
 #### Import particles from RealFlow
 
 The next line / section in the RealFlow file is for importing the particles from RealFlow and doing the reverse of the last grasshopper script. In this case moving the particle coordinates from RealFlow's 0,0,0 position and scaling them up to match the Real World coordinates we're using in Rhino.
@@ -60,7 +59,6 @@ It should definitely end with `particles/particles` the script will append `_FRA
 2. Set the *Frame number* Using either the value list (currently set to 135) or reattach the Number slider and use that. The particles for the specific frame will now be loaded.
 3. Scroll to the end of the line to preview / bake the particles to the file.
 4. The points will be baked to the `particles` layer. Select them and export them to Illustrator or keep them in Rhino. (If I recall correctly exporting `.ai` ignores points but I think you can export to `.dwg`, `.dxf` or similar CAD format which will import to Illustrator.
-
 
 ### Illustrator File
 
@@ -99,3 +97,19 @@ The script wraps a pipe around the lines to form the aquifer object. You can dup
 1. Scroll to the right to bake/preview the new object.
 2. Select the baked object
 3. File Export selected > .obj file type > Set vertex welding to Welded
+
+## Water Treatment cycle
+
+Explanation of Opus water treatment / how it linked in to clear up operation.
+
+Illustator file:
+- `Water Treatment\LE - Energy Reuse Section 03.ai`
+
+I have no idea why I called the file Energy reuse section..?
+
+## December Final Review
+
+A2 presentation boards are stored in:
+`December Final Review\`
+
+Flatten JPG for printing and vector version.
