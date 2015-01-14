@@ -109,7 +109,11 @@ I have no idea why I called the file Energy reuse section..?
 
 ## December Final Review
 
-A2 presentation boards are stored in:
-`December Final Review\`
+PDF A2 presentation boards are stored in:
+- `December Final Review\`
 
-Flatten JPG for printing and vector version.
+There's a flattened JPG version for printing and the original vector version.
+
+# Download
+
+Either download the individual files or [download a ZIP archive of everything](https://github.com/StudioLE/melt-handover/archive/master.zip).
