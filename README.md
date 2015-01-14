@@ -116,4 +116,4 @@ There's a flattened JPG version for printing and the original vector version.
 
 # Download
 
-Either download the individual files or [download a ZIP archive of everything](https://github.com/StudioLE/melt-handover/archive/master.zip).
+Either download the individual files or [download a ZIP archive of everything](https://github.com/StudioLE/melt-handover/archive/master.zip) [~ 240MB].
